@@ -9,25 +9,14 @@ public:
         for(int i=0;i<n;i++){
             max_element = max(max_element,nums[i]);
             mx.push_back(max_element);
-        }
-
-        for(int i=0;i<n;i++){
             prefixGcd.push_back(gcd(nums[i],mx[i]));
         }
 
         sort(prefixGcd.begin(),prefixGcd.end());
 
         long long sum = 0;
-        if(n%2!=0){
-            for(int i=0;i<(n/2);i++){
-                sum+=gcd(prefixGcd[i],prefixGcd[n-i-1]);
-            }
-        }
-
-        else{
-            for(int i=0;i<n/2;i++){
-                sum+=gcd(prefixGcd[i],prefixGcd[n-i-1]);
-            }
+        for(int i=0;i<n/2;i++){
+            sum+=gcd(prefixGcd[i],prefixGcd[n-i-1]);
         }
 
         return sum;
