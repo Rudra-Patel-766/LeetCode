@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
