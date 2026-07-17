@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2485-find-the-pivot-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
