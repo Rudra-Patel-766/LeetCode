@@ -7,6 +7,9 @@ public:
             int currGcd=0;
             if(nums[i]%k==0){
                 for(int j=i;j<n;j++){
+                    if(nums[j]%k!=0){
+                        break;
+                    }
                     currGcd = gcd(currGcd,nums[j]);
                     if(currGcd==k){
                         count++;
