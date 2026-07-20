@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0009-palindrome-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2485-find-the-pivot-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
