@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -30,6 +31,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2485-find-the-pivot-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Database
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Number Theory
 |  |
