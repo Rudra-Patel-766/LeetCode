@@ -9,6 +9,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0344-reverse-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
