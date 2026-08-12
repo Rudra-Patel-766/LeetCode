@@ -1,5 +1,3 @@
-# LeetCode Solves
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
