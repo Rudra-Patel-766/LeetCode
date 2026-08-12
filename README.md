@@ -13,6 +13,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -72,6 +74,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Number Theory
 |  |
 | ------- |
