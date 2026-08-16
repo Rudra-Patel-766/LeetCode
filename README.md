@@ -13,6 +13,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -21,6 +22,7 @@
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -61,6 +63,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
