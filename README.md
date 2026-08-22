@@ -37,6 +37,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2485-find-the-pivot-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
 | ------- |
