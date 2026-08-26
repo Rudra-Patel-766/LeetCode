@@ -9,6 +9,7 @@
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -25,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +106,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -116,6 +119,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
