@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -109,10 +111,15 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
