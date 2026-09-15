@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -106,6 +107,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
