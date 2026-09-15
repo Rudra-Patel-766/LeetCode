@@ -6,7 +6,7 @@ public:
             mpp[it]++;
         }
 
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         int i=k;
         while(true){
             if(i%k==0 && mpp[i]==0){
