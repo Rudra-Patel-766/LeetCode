@@ -112,6 +112,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -145,4 +146,24 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
