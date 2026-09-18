@@ -158,11 +158,13 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Shortest Path
 |  |
 | ------- |
