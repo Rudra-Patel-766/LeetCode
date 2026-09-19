@@ -86,6 +86,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0709-to-lower-case) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 ## Greedy
 |  |
