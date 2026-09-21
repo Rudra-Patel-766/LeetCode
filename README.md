@@ -48,6 +48,7 @@
 | [2485-find-the-pivot-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Prefix Sum
 |  |
 | ------- |
