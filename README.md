@@ -7,6 +7,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0904-fruit-into-baskets](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
