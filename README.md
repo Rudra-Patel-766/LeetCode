@@ -148,6 +148,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -155,6 +156,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Longest Increasing Subsequence
 |  |
@@ -174,12 +176,14 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -209,4 +213,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
