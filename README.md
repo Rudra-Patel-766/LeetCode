@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1903-largest-odd-number-in-string) |
