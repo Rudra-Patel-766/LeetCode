@@ -30,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0389-find-the-difference](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0709-to-lower-case) |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
@@ -151,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0389-find-the-difference) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
