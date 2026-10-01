@@ -181,6 +181,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,4 +237,12 @@
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
