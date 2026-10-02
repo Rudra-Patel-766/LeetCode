@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0198-house-robber](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -162,6 +163,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
