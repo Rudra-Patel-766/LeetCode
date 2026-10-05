@@ -103,6 +103,7 @@
 | [0389-find-the-difference](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -222,12 +223,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bitmask
