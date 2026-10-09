@@ -106,6 +106,7 @@
 | [0856-score-of-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -153,6 +154,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -225,6 +227,7 @@
 | [0020-valid-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -232,6 +235,7 @@
 | [0020-valid-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bitmask
 |  |
