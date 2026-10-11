@@ -21,6 +21,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -254,4 +255,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
