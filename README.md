@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -259,4 +260,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
