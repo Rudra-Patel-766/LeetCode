@@ -188,6 +188,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rudra-Patel-766/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -195,6 +196,7 @@
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Graph Theory
 |  |
@@ -202,6 +204,7 @@
 | [0743-network-delay-time](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -270,4 +273,16 @@
 | ------- |
 | [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0052-n-queens-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
