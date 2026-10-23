@@ -13,6 +13,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
 | [0948-bag-of-tokens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0980-unique-paths-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Rudra-Patel-766/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -164,6 +165,7 @@
 | [0389-find-the-difference](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0389-find-the-difference) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rudra-Patel-766/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0943-find-the-shortest-superstring) |
+| [0980-unique-paths-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Tree
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0052-n-queens-ii) |
+| [0980-unique-paths-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -285,4 +289,8 @@
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0886-possible-bipartition) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
