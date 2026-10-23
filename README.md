@@ -264,8 +264,10 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rudra-Patel-766/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
